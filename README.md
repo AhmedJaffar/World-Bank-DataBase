@@ -1,6 +1,12 @@
 # World-Bank-Database-
 
-CS2212 (2021) Course Project: 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+An interface for exploring World Bank and WHO open data with interactive charts.
+
+Full write-up: [ahmedjaffar.ca/projects/world-bank-data-explorer](https://ahmedjaffar.ca/projects/world-bank-data-explorer/)
+
+CS2212 (2021) Course Project:
 
 Team Members:
 Matthew Nadarajah,
